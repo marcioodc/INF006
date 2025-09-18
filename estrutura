@@ -1,0 +1,5 @@
+analise de complexidade -> Espacial -> Temporal
+tempo de execução x memória
+Espacial -> representa o espaço de memória para executar
+Temporal -> Tempo (real) necessário à execução do algoritmo
+            Número de instruções necessárias à execução
