@@ -1,0 +1,29 @@
+PROGRESSÃO ARITIMÉTICA
+
+ibnt bolha(int AC, int val){
+  for(int j =1; j<n;j++){
+    for(int i = 0; i<j;i++){ -> n(n-1)/2
+      if(a[i] > a[j]){  -> n(n-1)/2
+        a[i]=a[i] ^ a[j] -> 3.n(n-1)/4
+        a[j]=a[i] ^ a[j]
+        a[i]=a[i] ^ a[j]
+
+n(n-1)/2
+a soma da pa = 1 + n-1
+
+t(n) = n-1+2n(n-1)+3n(n-1)
+= n-1 + 7/4n(n-1)
+= n-1 + 7/4n^2-7/4
+
+for(int i=1; i<n; i++){   -> n-1/2
+  j=i-1; avx = a[i];   ->
+  while(a[j]<avx && j>0){ -> n(n-1)/2
+    a[j+1] = a[j];  -> n(n-1)/2
+    j--;        -> n(n-1)/2
+  }
+  a[j+1] = avx;-> n-1
+}
+
+t(m) = n-1 + 2 + 3/2n(n-1) + n-1
+t(n) = 3/2n^2 - 3/2n + 2n = 3/2n^2 + 1/2n
+    
