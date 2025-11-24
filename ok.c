@@ -1,4 +1,5 @@
-/*Hoje gostaria de compartilhar um projeto que eu e meu grupo idealizamos e desenvolvemos há algum tempo durante a matéria Empreendedorismo do programa Jovem Aprendiz IEL: Viva Sabor, uma iniciativa voltada para promover bem-estar na terceira idade por meio de receitas saudáveis e acompanhamento especializado.
+/*Hoje gostaria de compartilhar um projeto que eu e meu grupo idealizamos e desenvolvemos há algum tempo durante a matéria Empreendedorismo do programa Jovem Aprendiz IEL: 
+Viva Sabor, uma iniciativa voltada para promover bem-estar na terceira idade por meio de receitas saudáveis e acompanhamento especializado.
 
 Esse projeto foi uma experiência extremamente enriquecedora, marcada por colaboração, troca de ideias e muita dedicação. Nosso objetivo sempre foi criar uma solução acessível, acolhedora e relevante para quem busca mais equilíbrio e qualidade de vida.
 
